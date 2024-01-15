@@ -1,0 +1,332 @@
+<peliculas>
+    <pelicula nombre="SAW X">
+        <titulo>Saw X</titulo>
+        <portada>sawx.jpg</portada>
+        <central>sawxcentrada.jpg</central>
+        <video>https://www.youtube.com/watch?v=vEn_IB95oRg</video>
+        <duracion>118 min</duracion>
+        <pais>Estados Unidos</pais>
+        <generos>
+            <genero>Thriller</genero>
+            <genero>Terror</genero>
+            <genero>Gore</genero>
+        </generos>
+        <fecha>29 septiembre 2023</fecha>
+        <directores>
+            <director>Kevin Greutert</director>
+        </directores>
+        <guionistas>
+            <guionista>Josh Stolberg</guionista>
+            <guionista>Pete Goldfinger</guionista>
+        </guionistas>
+        <productores>
+            <productor>Lionsgate</productor>
+            <productor>Twisted Pictures</productor>
+        </productores>
+        <actores>
+            <actor>Tobin Bell</actor>
+            <actor>Steven Brand</actor>
+            <actor>Michael Beach</actor>
+            <actor>Paulette Hernandez</actor>
+            <actor>Octavio Hinojosa</actor>
+            <actor>Renata Vaca</actor>
+            <actor>Synnøve Macody Lund</actor>
+            <actor>Joshua Okamoto</actor>
+            <actor>Shawnee Smith</actor>
+        </actores>
+        <estrellas>6,5</estrellas>
+        <votos>380</votos>
+        <sinopsis>Situada entre los acontecimientos sucedidos en SAW y SAW II, John, desesperado y enfermo, viaja a México para someterse a un tratamiento experimental y muy arriesgado con la esperanza de curar su cáncer mortal. Sin embargo, toda la operación resulta ser un fraude para engañar a aquellos más vulnerables. Lleno de rabia y con un nuevo y escabroso propósito, John retomará su trabajo como asesino en serie y dará a probar su propia medicina a los embaucadores. Bajo la atenta mirada de Jigsaw, los jóvenes se enfrentaran a las trampas más ingeniosas, mortales y tortuosas en un visceral y despiadado juego.
+        </sinopsis>
+    </pelicula>
+    <pelicula nombre="The Creator">
+        <titulo>The Creator</titulo>
+        <portada>thecreator.jpg</portada>
+        <central>thecreatorcentral.jpg</central>
+        <video>https://www.youtube.com/watch?v=H1MRJrnREXE</video>
+        <duracion>133 min</duracion>
+        <pais>Estados Unidos</pais>
+        <generos>
+            <genero>Ciencia ficción</genero>
+            <genero>Thriller</genero>
+            <genero>Drama</genero>
+            <genero>Futuro postapocalíptico</genero>
+        </generos>
+        <fecha>29 septiembre 2023</fecha>
+        <directores>
+            <director>Gareth Edwards</director>
+        </directores>
+        <guionistas>
+            <guionista>Gareth Edwards</guionista>
+            <guionista>Chris Weitz</guionista>
+        </guionistas>
+        <productores>
+            <productor>20th Century Studios</productor>
+            <productor>Regency Television</productor>
+            <productor>Entertainment One</productor>
+        </productores>
+        <actores>
+            <actor>John David Washington</actor>
+            <actor>Madeleine Yuna Voyles</actor>
+            <actor>Gemma Chan</actor>
+            <actor>Allison Janney</actor>
+            <actor>Ken Watanabe</actor>
+            <actor>Sturgill Simpson</actor>
+            <actor>Amar Chadha-Patel</actor>
+            <actor>Marc Menchaca</actor>
+            <actor>Robbie Tann</actor>
+            <actor>Ralph Ineson</actor>
+            <actor>Michael Esper</actor>
+            <actor>Veronica Ngo</actor>
+        </actores>
+        <estrellas>6,4</estrellas>
+        <votos>1010</votos>
+        <sinopsis>En medio de una guerra futura entre la raza humana y las fuerzas de la inteligencia artificial, Joshua, un duro exagente de las fuerzas especiales que llora la desaparición de su esposa es reclutado para cazar y matar al Creador, el escurridizo arquitecto de la IA avanzada que ha desarrollado una misteriosa arma con el poder de acabar con la guerra... y con la propia humanidad.
+        </sinopsis>
+    </pelicula>
+    <pelicula nombre="Todos los nombres de Dios">
+        <titulo>Todos los nombres de Dios</titulo>
+        <portada>todoslosnombresdedios.jpg</portada>
+        <central>todoslosnombresdedioscentral.jpg</central>
+        <video>https://www.youtube.com/watch?v=hMwvTZWi9IE</video>
+        <duracion>105 min</duracion>
+        <pais>España</pais>
+        <generos>
+            <genero>Thriller</genero>
+            <genero>Intriga</genero>
+        </generos>
+        <fecha>15 septiembre 2023</fecha>
+        <directores>
+            <director>Daniel Calparsoro</director>
+        </directores>
+        <guionistas>
+            <guionista>Gemma Ventura</guionista>
+        </guionistas>
+        <productores>
+            <productor>Todos Los Nombres De Dios AIE</productor>
+            <productor>TriPictures</productor>
+            <productor>Second Gen Pictures</productor>
+            <productor>Wanda Visión</productor>
+        </productores>
+        <actores>
+            <actor>Luis Tosar</actor>
+            <actor>Inma Cuesta</actor>
+            <actor>Nourdin Batán</actor>
+            <actor>Roberto Enríquez</actor>
+            <actor>Antonio Buil</actor>
+            <actor>Patricia Vico</actor>
+            <actor>Lucas Nabor</actor>
+            <actor>Joan Solé</actor>
+            <actor>Fernando Cayo</actor>
+        </actores>
+        <estrellas>5,8</estrellas>
+        <votos>567</votos>
+        <sinopsis>Tras un atentado, Santi es tomado como rehén por Hamza, el único terrorista superviviente. Un giro inesperado intercambia los papeles y Santi se convierte en una bomba humana caminando por la Gran Vía de Madrid con un chaleco cargado con explosivos. Los servicios de inteligencia, emergencia e incluso los medios de comunicación, unirán fuerzas para salvarle la vida en un impresionante despliegue de medios con consecuencias inesperadas.
+        </sinopsis>
+    </pelicula>
+    <pelicula nombre="Oppenheimer">
+        <titulo>Oppenheimer</titulo>
+        <portada>oppenheimer.jpg</portada>
+        <central>oppenheimercentral.jpg</central>
+        <video>https://www.youtube.com/watch?v=JpUd4BS7yI0</video>
+        <duracion>180 min</duracion>
+        <pais>Estados Unidos</pais>
+        <generos>
+            <genero>Biográfico</genero>
+            <genero>Thriller</genero>
+            <genero>Drama</genero>
+        </generos>
+        <fecha>20 julio 2023</fecha>
+        <directores>
+            <director>Christopher Nolan</director>
+        </directores>
+        <guionistas>
+            <guionista>Christopher Nolan</guionista>
+        </guionistas>
+        <productores>
+            <productor>Universal Pictures</productor>
+            <productor>Atlas Entertainment</productor>
+            <productor>Syncopy Production</productor>
+            <productor>Gadget Films</productor>
+        </productores>
+        <actores>
+            <actor>Cillian Murphy</actor>
+            <actor>Emily Blunt</actor>
+            <actor>Matt Damon</actor>
+            <actor>Robert Downey Jr.</actor>
+            <actor>Florence Pugh</actor>
+            <actor>Josh Hartnett</actor>
+            <actor>Casey Affleck</actor>
+            <actor>Rami Malek</actor>
+            <actor>Kenneth Branagh</actor>
+            <actor>Benny Safdie</actor>
+            <actor>Jason Clarke</actor>
+            <actor>Dylan Arnold</actor>
+        </actores>
+        <estrellas>7,6</estrellas>
+        <votos>24.624</votos>
+        <sinopsis>En tiempos de guerra, el brillante físico estadounidense Julius Robert Oppenheimer (Cillian Murphy), al frente del "Proyecto Manhattan", lidera los ensayos nucleares para construir la bomba atómica para su país. Impactado por su poder destructivo, Oppenheimer se cuestiona las consecuencias morales de su creación. Desde entonces y el resto de su vida, se opondría firmemente al uso de armas nucleares.
+        </sinopsis>
+    </pelicula>
+    <pelicula nombre="Barbie">
+        <titulo>Barbie</titulo>
+        <portada>barbie.jpg</portada>
+        <central>barbiecentral.jpg</central>
+        <video>https://www.youtube.com/watch?v=zh4KhVSMwtQ</video>
+        <duracion>114 min</duracion>
+        <pais>Estados Unidos</pais>
+        <generos>
+            <genero>Comedia</genero>
+            <genero>Fantástico</genero>
+        </generos>
+        <fecha>20 julio 2023</fecha>
+        <directores>
+            <director>Greta Gerwig</director>
+        </directores>
+        <guionistas>
+            <guionista>Greta Gerwig</guionista>
+            <guionista>Noah Baumbach</guionista>
+        </guionistas>
+        <productores>
+            <productor>Warner Bros.</productor>
+            <productor>Heyday Films</productor>
+            <productor>Mattel</productor>
+            <productor>LuckyChap Entertainment</productor>
+        </productores>
+        <actores>
+            <actor>Margot Robbie</actor>
+            <actor>Ryan Gosling</actor>
+            <actor>Kate McKinnon</actor>
+            <actor>Issa Rae</actor>
+            <actor>Hari Nef</actor>
+            <actor>Alexandra Shipp</actor>
+            <actor>Sharon Rooney</actor>
+            <actor>Dua Lipa</actor>
+            <actor>Nicola Coughlan</actor>
+            <actor>Ana Cruz Kayne</actor>
+            <actor>Ritu Arya </actor>
+            <actor>Kingsley Ben-Adir</actor>
+            <actor>Simu Liu</actor>
+            <actor>Scott Evans</actor>
+            <actor>Ncuti Gatwa</actor>
+            <actor>John Cena</actor>
+        </actores>
+        <estrellas>6,2</estrellas>
+        <votos>21.566</votos>
+        <sinopsis>Barbie (Margot Robbie) lleva una vida ideal en Barbieland, allí todo es perfecto, con chupi fiestas llenas de música y color, y todos los días son el mejor día. Claro que Barbie se hace algunas preguntas, cuestiones bastante incómodas que no encajan con el mundo idílico en el que ella y las demás Barbies viven. Cuando Barbie se dé cuenta de que es capaz de apoyar los talones en el suelo, y tener los pies planos, decidirá calzarse unos zapatos sin tacones y viajar hasta el mundo real.
+        </sinopsis>
+    </pelicula>
+    <pelicula nombre="Golpe a Wall Street">
+        <titulo>Golpe a Wall Street</titulo>
+        <portada>dumbmoney.jpg</portada>
+        <central>dumbmoneycentral.jpg</central>
+        <video>https://www.youtube.com/watch?v=n1EAQuMlsh4</video>
+        <duracion>104 min</duracion>
+        <pais>Estados Unidos</pais>
+        <generos>
+            <genero>Comedia</genero>
+            <genero>Drama</genero>
+        </generos>
+        <fecha>6 octubre 2023</fecha>
+        <directores>
+            <director>Craig Gillespie</director>
+        </directores>
+        <guionistas>
+            <guionista>Rebecca Angelo</guionista>
+            <guionista>Lauren Schuker Blum</guionista>
+            <guionista>Ben Mezrich</guionista>
+        </guionistas>
+        <productores>
+            <productor>Black Bear Pictures</productor>
+            <productor>Ryder Picture Company</productor>
+            <productor>Columbia Pictures</productor>
+            <productor>Sony Pictures</productor>
+            <productor>Stage 6 Films</productor>
+        </productores>
+        <actores>
+            <actor>Paul Dano</actor>
+            <actor>Pete Davidson</actor>
+            <actor>Vincent D'Onofrio</actor>
+            <actor>America Ferrera</actor>
+            <actor>Nick Offerman</actor>
+            <actor>Anthony Ramos</actor>
+            <actor>Sebastian Stan</actor>
+            <actor>Shailene Woodley</actor>
+            <actor>Seth Rogen</actor>
+            <actor>Dane DeHaan</actor>
+            <actor>Myha'la Herrold </actor>
+            <actor>Rushi Kota</actor>
+            <actor>Talia Ryder</actor>
+        </actores>
+        <estrellas>6,3</estrellas>
+        <votos>76</votos>
+        <sinopsis>Nos descubre el disparatado caso real de gente corriente que consiguió jugársela a Wall Street y se hizo rica convirtiendo GameStop (una popular tienda de videojuegos y electrónica) en la empresa más candente del mundo. La historia definitiva de David contra Goliat. En medio de todo este embrollo se encuentra Keith Gill (Paul Dano), un tipo cualquiera que invirtió los ahorros de su vida en acciones y empezó a publicar sobre ello en redes sociales. Gracias a sus consejos bursátiles, su popularidad estalló, al igual que lo hizo su vida y la de todos sus seguidores, que empezaron a enriquecerse de la noche a la mañana. No obstante, los multimillonarios no tardaron en contratacar, desencadenando una de las batallas financieras más feroces vividas en Wall Street.
+        </sinopsis>
+    </pelicula>
+    <pelicula nombre="El castillo">
+        <titulo>El castillo</titulo>
+        <portada>elcastillo.jpg</portada>
+        <central>elcastillocentral.jpg</central>
+        <video>https://www.youtube.com/watch?v=NjxHmtWTAoM</video>
+        <duracion>78 min</duracion>
+        <pais>Argentina</pais>
+        <generos>
+            <genero>Documental</genero>
+            <genero>Drama</genero>
+        </generos>
+        <fecha>6 octubre 2023</fecha>
+        <directores>
+            <director>Martin Benchimol</director>
+        </directores>
+        <guionistas>
+            <guionista>Martin Benchimol</guionista>
+        </guionistas>
+        <productores>
+            <productor>Coproducción Argentina-Francia-España</productor>
+            <productor>Gema Films</productor>
+            <productor>Sister Productions</productor>
+        </productores>
+        <actores>
+        </actores>
+        <estrellas>6,0</estrellas>
+        <votos>28</votos>
+        <sinopsis>Tras trabajar como empleada doméstica toda su vida, Justina hereda de su antigua empleadora una enorme mansión en medio de las pampas argentinas. La única condición es que jamás la venda. En este moderno cuento de hadas, Justina y su hija Alexia enfrentarán los desafíos de mantener viva esa promesa.
+        </sinopsis>
+    </pelicula>
+    <pelicula nombre="Al otro lado del río y entre los árboles">
+        <titulo>Al otro lado del río y entre los árboles</titulo>
+        <portada>alotroladodelríoyentrelosárboles.jpg</portada>
+        <central>alotroladodelríoyentrelosárbolescentral.jpg</central>
+        <video>https://www.youtube.com/watch?v=qlMz2fL7hsU</video>
+        <duracion>- min</duracion>
+        <pais>Reino Unido</pais>
+        <generos>
+            <genero>Drama</genero>
+        </generos>
+        <fecha>11 octubre 2023</fecha>
+        <directores>
+            <director>Paula Ortiz</director>
+        </directores>
+        <guionistas>
+            <guionista>Peter Flannery</guionista>
+        </guionistas>
+        <productores>
+            <productor>Tribune Pictures</productor>
+            <productor>The Exchange</productor>
+        </productores>
+        <actores>
+            <actor>Josh Hutcherson</actor>
+            <actor>Liev Schreiber</actor>
+            <actor>Danny Huston</actor>
+            <actor>Matilda De Angelis</actor>
+            <actor>Giulio Berruti</actor>
+            <actor>Enzo Cilenti</actor>
+            <actor>Laura Morante</actor>
+            <actor>Alessandro Bressanello</actor>
+        </actores>
+        <estrellas>-</estrellas>
+        <votos>-</votos>
+        <sinopsis>Italia, después de la Segunda Guerra Mundial. Richard Cantwell es un coronel del ejército estadounidense atormentado por la guerra, que se enfrenta a la noticia de que padece una enfermedad terminal con estoica indiferencia. Un encuentro casual con una joven comienza a reavivar en él la esperanza de renovarse.
+        </sinopsis>
+    </pelicula>
+</peliculas>
