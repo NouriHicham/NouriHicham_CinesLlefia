@@ -15,9 +15,9 @@
     <header>
         <div class="sesion">
             <ul>
-                <li><a href="#" class="fa-solid fa-house"></a></li>
+                <li><a href="index.html" class="fa-solid fa-house"></a></li>
                 <li><a href="index_tabla.html" class="fa-solid fa-table"></a></li>
-                <li><a href="index_form.html" class="fa-solid fa-pencil"></a></li>
+                <li><a href="#" class="fa-solid fa-pencil"></a></li>
             </ul>
             <ul class="linea">
                 <li><a href="#"><img class="imgPeque" src="imagenes/iconoCinesa.png" alt="icono cinesa"></a></li>
@@ -59,87 +59,44 @@
                 <a href="#">A-Z</a>
             </div>
             <div class="cajaPelis">
-                <div>
-                    <h4>TITULO PELÍCULA</h4>
-                    <img src="imagenes/thecreator.jpg" alt="The Creator portada" height="215"><br>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <span>(7 votos)</span>
-                    <i class="fas fa-share-alt"></i>
-                </div>
-                <div>
-                    <h4>TITULO PELÍCULA</h4>
-                    <img src="imagenes/thecreator.jpg" alt="The Creator portada" height="215"><br>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <span>(7 votos)</span>
-                    <i class="fas fa-share-alt"></i>
-                </div>
-                <div>
-                    <h4>TITULO PELÍCULA</h4>
-                    <img src="imagenes/thecreator.jpg" alt="The Creator portada" height="215"><br>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <span>(7 votos)</span>
-                    <i class="fas fa-share-alt"></i>
-                </div>
-                <div>
-                    <h4>TITULO PELÍCULA</h4>
-                    <img src="imagenes/thecreator.jpg" alt="The Creator portada" height="215"><br>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <span>(7 votos)</span>
-                    <i class="fas fa-share-alt"></i>
-                </div>
-                <div>
-                    <h4>TITULO PELÍCULA</h4>
-                    <img src="imagenes/thecreator.jpg" alt="The Creator portada" height="215"><br>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <span>(7 votos)</span>
-                    <i class="fas fa-share-alt"></i>
-                </div>
-                <div>
-                    <h4>TITULO PELÍCULA</h4>
-                    <img src="imagenes/thecreator.jpg" alt="The Creator portada" height="215"><br>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <span>(7 votos)</span>
-                    <i class="fas fa-share-alt"></i>
-                </div>
-                <div>
-                    <h4>TITULO PELÍCULA</h4>
-                    <img src="imagenes/thecreator.jpg" alt="The Creator portada" height="215"><br>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <span>(7 votos)</span>
-                    <i class="fas fa-share-alt"></i>
-                </div>
-                <div>
-                    <h4>TITULO PELÍCULA</h4>
-                    <img src="imagenes/thecreator.jpg" alt="The Creator portada" height="215"><br>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <span>(7 votos)</span>
-                    <i class="fas fa-share-alt"></i>
-                </div>
+                <form class="form" action="datospeli.php">
+                    <div>
+                        <div>
+                            <label for="titulo">Titulo</label><br>
+                            <input type="text" id="titulo" name="titulo" value="" required>
+                        </div>
+                        <div>
+                            <label for="number">Puntuacion</label><br>
+                            <input type="number" id="number" name="number" min="1" max="5">
+                        </div>
+                        <div>
+                            <label for="fecha">Fecha de salida</label><br>
+                            <input type="date" id="fecha" name="fecha">
+                        </div>
+                        <div>
+                            <label for="genero">Genero</label><br>
+                            <select name="genero" id="genero">
+                                <option value="novalue">-</option>
+                                <option value="thriller">Thriller</option>
+                                <option value="biografico">Biográfico</option>
+                                <option value="comedia">Comedia</option>
+                                <option value="documental">Documental</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label for="pais">Pais de producción</label><br>
+                            <select name="pais" id="pais">
+                                <option value="novalue">-</option>
+                                <option value="estadosunidos">Estados Unidos</option>
+                                <option value="espanya">España</option>
+                                <option value="argentina">Argentina</option>
+                            </select>
+                        </div>
+                        <button>Enviar</button>
+                    </div>
+                </form>
             </div>
+            
             
         </div>
         <button class="flecha">
